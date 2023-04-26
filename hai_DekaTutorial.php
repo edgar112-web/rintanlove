@@ -19,15 +19,15 @@
     <div class="top stiker"><img src="" /><img src="" /><img src="" /></div><div class="ucapan">
       <div id="slider">
     <!-- Ucapan awal -->
-        <p>Hai Kamu</p>
-        <p>Kamu tuh cantik tau</p>
-        <p>Pinter juga</p>
+        <p>Hai Baby aku..</p>
+        <p>Cape yaa Hari ini...</p>
+        <p>Kamu hebat tau cantik..</p>
     
     <!-- Pertanyaan -->
-        <p>Kamu mau gak jadi pacar aku?</p>
+        <p>Semangaat sayang aku dan inget harus jaga kesehatan yaa, mau sesuatu ga?</p>
       </div><div id="slider">
     <!-- Ucapan diterima -->
-        <p>Makasih ya udah mau nerima aku</p>
+        <p>Ini ada Bunga dari aku heheheh</p>
       </div>
     </div>
     <script>
